@@ -1,4 +1,4 @@
-const palavra = 18;
+const palavra = 'salve';
 
 //FUNÇÃO QUE VÁLIDA SE É STRING
 const ehString = palavra => {
