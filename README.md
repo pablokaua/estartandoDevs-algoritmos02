@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="img/estartandoDEvs.jpg">
+    <img src="img/estartandoDevs.jpg">
 </h1>
 
 # 💻 Estartando Devs:
